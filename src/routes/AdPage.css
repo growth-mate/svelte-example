@@ -190,7 +190,7 @@ h1 {
 
 .network-input-menu-container {
     margin: 10px 0px;
-    z-index: auto;
+    z-index: 2;
     --data-index: 1;
     transform: translate(-16px, calc(-59.5px - var(--data-index) * 32px));
 }
@@ -267,6 +267,7 @@ h1 {
     display: flex;
     text-indent: 12px;
     min-width: 0;
+    z-index: 1;
 }
 
 .account-input::placeholder {
