@@ -43,7 +43,7 @@
 			This is an example implementation of a GrowthMate ad unit.
 			<a
 				class="more-info"
-				href="https://github.com/growth-mate/react-example/tree/main"
+				href="https://github.com/growth-mate/svelte-example/tree/main"
 			>
 				More info
 			</a>
